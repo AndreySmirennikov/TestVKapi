@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
 using System.Net.Http;
-using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Json;
 
 namespace WebAPIClient
 {
