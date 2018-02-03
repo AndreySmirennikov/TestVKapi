@@ -1,0 +1,10 @@
+c:\Users\User\Documents\TestVK\bin\Debug\netcoreapp2.0\TestVK.deps.json
+c:\Users\User\Documents\TestVK\bin\Debug\netcoreapp2.0\TestVK.runtimeconfig.json
+c:\Users\User\Documents\TestVK\bin\Debug\netcoreapp2.0\TestVK.runtimeconfig.dev.json
+c:\Users\User\Documents\TestVK\bin\Debug\netcoreapp2.0\TestVK.dll
+c:\Users\User\Documents\TestVK\bin\Debug\netcoreapp2.0\TestVK.pdb
+c:\Users\User\Documents\TestVK\obj\Debug\netcoreapp2.0\TestVK.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\TestVK\obj\Debug\netcoreapp2.0\TestVK.AssemblyInfoInputs.cache
+c:\Users\User\Documents\TestVK\obj\Debug\netcoreapp2.0\TestVK.AssemblyInfo.cs
+c:\Users\User\Documents\TestVK\obj\Debug\netcoreapp2.0\TestVK.dll
+c:\Users\User\Documents\TestVK\obj\Debug\netcoreapp2.0\TestVK.pdb
