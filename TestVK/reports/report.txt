@@ -1,0 +1,14 @@
+==========================04 февраля 2018 | 19:31:10====================================
+
+Request:https://api.vk.com/method/auth.signup?first_name=Ivan&last_name=Ivanov&birthday=02.11.1990&client_id=6358046&client_secret=UQpAWIRdigIn5P1U0ve3&phone=89819878159&password=123123Aa&test_mode=1&voice=0&sex=2&v=5.71
+Response:{"response":{"sid":"44eaafefe88b9198086ba131bea2f7e7"}}
+
+==============================================================
+
+==========================04 февраля 2018 | 19:31:11====================================
+
+Request:https://api.vk.com/method/auth.signup?first_name=Ivan&last_name=Ivanov&birthday=02.11.1990&client_id=6358046&client_secret=UQpAWIRdigIn5P1U0ve3&phone=&password=123123Aa&test_mode=1&voice=0&sex=2&v=5.71
+Response:{"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: phone is undefined","request_params":[{"key":"oauth","value":"1"},{"key":"method","value":"auth.signup"},{"key":"first_name","value":"Ivan"},{"key":"last_name","value":"Ivanov"},{"key":"birthday","value":"02.11.1990"},{"key":"client_id","value":"6358046"},{"key":"client_secret","value":"UQpAWIRdigIn5P1U0ve3"},{"key":"phone","value":""},{"key":"password","value":"123123Aa"},{"key":"test_mode","value":"1"},{"key":"voice","value":"0"},{"key":"sex","value":"2"},{"key":"v","value":"5.71"}]}}
+
+==============================================================
+
